@@ -1,0 +1,14 @@
+---
+# main.scss
+---
+
+@import "minima";  /* Import the base styles of the minimal theme */
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+a {
+  color: #1e90ff; /* A contrasting link color */
+}
