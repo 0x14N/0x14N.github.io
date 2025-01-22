@@ -4,5 +4,5 @@ description: "simple black theme static"
 email: email@example.com
 baseurl: ""
 url: "https://0x14N.github.io"
-theme: minimal-theme
+theme: minima
 markdown: kramdown
