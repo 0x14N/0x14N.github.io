@@ -1,0 +1,6 @@
+# Ignore Jekyll build files
+_site/
+
+# Ignore editor config files
+.DS_Store
+Thumbs.db
