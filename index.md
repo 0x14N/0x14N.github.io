@@ -3,4 +3,8 @@ layout: default
 title: Home
 ---
 
-Hello World!
+<head>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
+
+Hello World! Test!

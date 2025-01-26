@@ -14,3 +14,8 @@ a {
   color: #1e90ff; /* A contrasting link color */
   font-size: 10px;
 }
+
+a:hover, a:focus {
+  color: #ff4500; /* Example: Change color on hover */
+  text-decoration: none;
+}
